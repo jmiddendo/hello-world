@@ -1,2 +1,5 @@
 # hello-world
-This is a basic hello world repository.
+
+Hi,
+
+I'm Jeff.  Welcome to my GitHub.
